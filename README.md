@@ -11,4 +11,3 @@ O objetivo da campanha Novembro Azul é **conscientizar** os homens sobre a **im
 - Conscientizar a importância da prevenção e do diagnóstico precoce do câncer de próstata
 - Incentivar incentivar hábitos saudáveis e cuidados gerais
 - Promover a valorização do autocuidado e da atenção à qualidade de vida
-
