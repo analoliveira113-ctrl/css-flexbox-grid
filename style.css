@@ -1,0 +1,117 @@
+@import url('https://fonts.cdnfonts.com/css/just-another-hand');
+@import url('https://fonts.cdnfonts.com/css/actor');
+
+body{
+    font-size: x-large;
+    background-color: #ffffff;
+    margin: 0;
+}
+
+.azul{
+    color: #004aad;
+    font-family: 'Actor', sans-serif;
+}
+
+header {
+  width: 100%;
+  height: 37px;
+  position: fixed;
+  top: 0px;
+  left: 0;
+  right: 0;
+  background: #1f6dff;
+  text-align: center;    
+  font-size: 2.9vw;
+  font-family: 'Just another hand', sans-serif;
+}
+
+header .branco {
+  color: #ffffff;
+  font-size: 30px;
+  position: fixed;
+}
+
+.inicio{
+    width: 100%;
+}
+
+.img-centro {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+}
+
+.texto-centro {
+  text-align: center;
+}
+
+h1{
+     font-family: 'Just another hand', sans-serif;
+    text-align: center;
+    color: #004aad;
+}
+
+
+.container {
+    /* display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); */
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 20px;
+    width: 100vw;
+    box-shadow: unset;
+    padding: unset;
+    background-color: unset;
+}
+
+.card{
+    background-color: #ffffff;
+    color: #004aad;
+    padding: 30px 20px;
+    border-radius: 15px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 4px 8px rgba(0,0,0, 0.2);
+    transition: transform 0.2s ease-in-out;
+    width: 20vw;
+}
+
+    .card:hover {
+    transform: scale(1.05);
+    } 
+
+.card img {
+    width: 70px;
+    max-width: 100%;
+    margin-bottom: 15px;
+}
+
+
+
+.grid-exemplo {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 20px;
+  padding: 40px;
+  background-color: #f5f5f5;
+}
+
+/* Cada item do grid */
+.grid-exemplo .card {
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 20px;
+  text-align: center;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  transition: transform 0.2s;
+}
+
+.grid-exemplo .card:hover {
+  transform: translateY(-5px);
+}
