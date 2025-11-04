@@ -14,7 +14,8 @@ A iniciativa busca **derrubar tabus** que muitas vezes fazem com que os homens *
 
 Além do câncer de próstata, a campanha também chama atenção para outras questões de saúde masculina, promovendo a valorização do autocuidado e da atenção à qualidade de vida. Os principais pontos são:
 
--Conscientizar sobre a importância da prevenção e do diagnóstico precoce do câncer de próstata.
--Incentivar hábitos saudáveis e cuidados gerais.
--Promover a valorização do autocuidado e da atenção à qualidade de vida.
+- Conscientizar sobre a importância da prevenção e do diagnóstico precoce do câncer de próstata.
+- Incentivar hábitos saudáveis e cuidados gerais.
+- Promover a valorização do autocuidado e da atenção à qualidade de vida.
+
 
